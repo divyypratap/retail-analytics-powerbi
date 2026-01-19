@@ -1,0 +1,101 @@
+product_id ,product_name ,category ,price
+1,iPhone 14,Smartphones,18728
+2,iPhone 15,Smartphones,39576
+3,Samsung Galaxy S23,Smartphones,89038
+4,Samsung Galaxy A54,Smartphones,27983
+5,Redmi Note 12,Smartphones,72645
+6,OnePlus Nord CE,Smartphones,69980
+7,Google Pixel 7,Smartphones,32711
+8,MacBook Air M1,Laptops,59520
+9,MacBook Air M2,Laptops,107560
+10,Dell Inspiron 15,Laptops,80954
+11,HP Pavilion 14,Laptops,85699
+12,Lenovo ThinkPad E14,Laptops,119942
+13,Asus VivoBook 15,Laptops,77776
+14,Sony Bravia 55 TV,Televisions,107473
+15,LG OLED 48 TV,Televisions,123847
+16,Mi 43 Smart TV,Televisions,139602
+17,Boat Rockerz 450,Audio Devices,39572
+18,Boat Airdopes 141,Audio Devices,5900
+19,JBL Flip 6,Audio Devices,19185
+20,Sony WH-1000XM5,Audio Devices,18286
+21,Apple AirPods Pro,Audio Devices,18328
+22,Samsung Galaxy Buds 2,Audio Devices,11986
+23,Canon EOS 1500D,Cameras,36455
+24,Nikon D5600,Cameras,119477
+25,Logitech MX Master 3,Computer Accessories,8607
+26,Apple iPad 10th Gen,Tablets,31932
+27,Samsung Galaxy Tab S8,Tablets,76048
+28,Amazon Echo Dot,Smart Home,14657
+29,Google Nest Mini,Smart Home,23764
+30,Mi Smart Band 7,Wearables,6145
+31,Apple Watch SE,Wearables,54837
+32,Samsung Galaxy Watch 4,Wearables,21660
+33,HP LaserJet Printer,Computer Accessories,13065
+34,Canon Inkjet Printer,Computer Accessories,16296
+35,Seagate 1TB HDD,Computer Accessories,16427
+36,WD 1TB SSD,Computer Accessories,5066
+37,SanDisk 128GB Pendrive,Computer Accessories,2249
+38,TP-Link WiFi Router,Networking Devices,14877
+39,D-Link WiFi Router,Networking Devices,6484
+40,Bajaj Mixer Grinder,Home Appliances,86599
+41,Philips Air Fryer,Home Appliances,11114
+42,LG Washing Machine,Home Appliances,19187
+43,Samsung Refrigerator,Home Appliances,11681
+44,Whirlpool Microwave,Home Appliances,12233
+45,Voltas 1.5T AC,Home Appliances,83119
+46,Daikin 1.5T AC,Home Appliances,90175
+47,IFB Dishwasher,Home Appliances,75451
+48,Urban Ladder Sofa,Furniture,34196
+49,Nilkamal Office Chair,Furniture,61642
+50,Ikea Study Table,Furniture,35335
+51,iPhone 14,Smartphones,47309
+52,iPhone 15,Smartphones,19311
+53,Samsung Galaxy S23,Smartphones,84749
+54,Samsung Galaxy A54,Smartphones,14600
+55,Redmi Note 12,Smartphones,37525
+56,OnePlus Nord CE,Smartphones,83501
+57,Google Pixel 7,Smartphones,66719
+58,MacBook Air M1,Laptops,102455
+59,MacBook Air M2,Laptops,128900
+60,Dell Inspiron 15,Laptops,46145
+61,HP Pavilion 14,Laptops,132454
+62,Lenovo ThinkPad E14,Laptops,99242
+63,Asus VivoBook 15,Laptops,123542
+64,Sony Bravia 55 TV,Televisions,50610
+65,LG OLED 48 TV,Televisions,80053
+66,Mi 43 Smart TV,Televisions,37917
+67,Boat Rockerz 450,Audio Devices,30927
+68,Boat Airdopes 141,Audio Devices,6469
+69,JBL Flip 6,Audio Devices,13563
+70,Sony WH-1000XM5,Audio Devices,12040
+71,Apple AirPods Pro,Audio Devices,7789
+72,Samsung Galaxy Buds 2,Audio Devices,28435
+73,Canon EOS 1500D,Cameras,90092
+74,Nikon D5600,Cameras,56506
+75,Logitech MX Master 3,Computer Accessories,7368
+76,Apple iPad 10th Gen,Tablets,29417
+77,Samsung Galaxy Tab S8,Tablets,38358
+78,Amazon Echo Dot,Smart Home,26269
+79,Google Nest Mini,Smart Home,26436
+80,Mi Smart Band 7,Wearables,15160
+81,Apple Watch SE,Wearables,31288
+82,Samsung Galaxy Watch 4,Wearables,4775
+83,HP LaserJet Printer,Computer Accessories,8424
+84,Canon Inkjet Printer,Computer Accessories,2870
+85,Seagate 1TB HDD,Computer Accessories,3355
+86,WD 1TB SSD,Computer Accessories,7664
+87,SanDisk 128GB Pendrive,Computer Accessories,19236
+88,TP-Link WiFi Router,Networking Devices,2303
+89,D-Link WiFi Router,Networking Devices,8642
+90,Bajaj Mixer Grinder,Home Appliances,48184
+91,Philips Air Fryer,Home Appliances,12168
+92,LG Washing Machine,Home Appliances,43938
+93,Samsung Refrigerator,Home Appliances,90445
+94,Whirlpool Microwave,Home Appliances,32444
+95,Voltas 1.5T AC,Home Appliances,10925
+96,Daikin 1.5T AC,Home Appliances,94837
+97,IFB Dishwasher,Home Appliances,91197
+98,Urban Ladder Sofa,Furniture,59098
+99,Nilkamal Office Chair,Furniture,5492
+100,Ikea Study Table,Furniture,26451

@@ -1,9 +1,9 @@
-# Retail Sales Analytics Dashboard (SQL & Power BI)
+# Retail Sales Analytics Dashboard (SQL & PowerBI)
 
 ## Project Overview
-This project is an end-to-end retail analytics solution built using SQL and Power BI. The objective is to transform raw transactional data into meaningful business insights related to sales performance, product trends, customer behaviour, and payment patterns.
+This project is an end-to-end retail analytics solution built using SQL and PowerBI. The objective is to transform raw transactional data into meaningful business insights related to sales performance, product trends, customer behaviour, and payment patterns.
 
-The entire dataset was self-generated, modelled in SQL, cleaned, and visualized using Power BI with interactive dashboards.
+The entire dataset was self-generated, modelled in SQL, cleaned, and visualized using PowerBI with interactive dashboards.
 
 ---
 
@@ -33,7 +33,7 @@ The project uses 5 interrelated tables:
 - Fact Table: order_items  
 - Dimension Tables: customers, products, orders, payments  
 - Relationships created using primary and foreign keys  
-- Star-schema style modelling implemented in Power BI  
+- Star-schema style modelling implemented in PowerBI  
 
 ---
 
@@ -84,7 +84,7 @@ The project uses 5 interrelated tables:
 
 ## Tools & Technologies
 - SQL: Schema design, joins, aggregations  
-- Power BI: Data modelling, DAX, interactive dashboards  
+- PowerBI: Data modelling, DAX, interactive dashboards  
 - Excel / CSV: Data generation and storage  
 
 ---
@@ -117,7 +117,7 @@ Retail-Analytics-Powerbi/
 
 ## How to Use
 1. Clone the repository  
-2. Open the .pbix file in Power BI Desktop  
+2. Open the .pbix file in PowerBI Desktop  
 3. Load CSV files if required  
 4. Explore dashboards using slicers and filters  
 
@@ -125,4 +125,4 @@ Retail-Analytics-Powerbi/
 
 ## Author
 **Divyy Pratap**    
-Data Analyst | SQL • Power BI • Excel
+Data Analyst | SQL • PowerBI • Excel

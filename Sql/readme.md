@@ -7,5 +7,5 @@ Contents:
 
 Purpose:
 - To document how the dataset can be modelled in a relational database using primary and foreign keys.
-- To show sample SQL queries that support business reporting and insights prior to building Power BI dashboards.
+- To show sample SQL queries that support business reporting and insights prior to building Power BI dashboards. 
 

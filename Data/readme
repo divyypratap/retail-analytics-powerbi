@@ -1,1 +1,10 @@
+This folder contains all raw and cleaned dataset files used for the Power BI project.
 
+Files:
+- `customers.csv`: Customer demographic information (~1,000 records)
+- `products.csv`: Product master with pricing (~100 records)
+- `orders.csv`: Order header data (~2,000 records)
+- `order_items.csv`: Detailed order items (~5,000 records)
+- `payments.csv`: Payment transaction details (~1,200 records)
+
+These CSV files were generated manually to simulate realistic retail transaction data and were used as inputs to the Power BI dashboards.

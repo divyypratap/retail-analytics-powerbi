@@ -8,4 +8,4 @@ This folder contains all raw and cleaned dataset files used for the Power BI pro
 - `order_items.csv`: Detailed order items (~5,000 records)
 - `payments.csv`: Payment transaction details (~1,200 records)
 
-These CSV files were generated manually to simulate realistic retail transaction data and were used as inputs to the Power BI dashboards.
+These CSV files were generated manually to simulate realistic retail transaction data and were used as inputs to the Power BI dashboards. 

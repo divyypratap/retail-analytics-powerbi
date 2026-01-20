@@ -1,6 +1,7 @@
+# Data Folder
 This folder contains all raw and cleaned dataset files used for the Power BI project.
 
-Files:
+## Files:
 - `customers.csv`: Customer demographic information (~1,000 records)
 - `products.csv`: Product master with pricing (~100 records)
 - `orders.csv`: Order header data (~2,000 records)
